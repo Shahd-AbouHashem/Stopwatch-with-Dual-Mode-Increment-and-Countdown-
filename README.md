@@ -12,9 +12,14 @@ This project involves creating a versatile stopwatch that operates in two distin
 minutes, and seconds on six seven-segment displays.
 2. Countdown Mode: The stopwatch counts downwards from a user-defined time,
 functioning as a countdown timer.
-Features:
+
+## Features:
 • Reset Function: Resets the time to zero in both modes.
+
 • Pause Function: Pauses the time counting, allowing the stopwatch to hold its current
 value.
+
 • Resume Function: Resumes counting from the paused time.
+
 • Mode Toggle: Switches between increment and countdown modes.
+
